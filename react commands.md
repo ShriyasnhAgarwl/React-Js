@@ -7,6 +7,12 @@
 - npm run build:  bundles the app into static files for the production  
 - npm test:  starts the test runner 
 - npm run eject: removes this tool and copies build dependencies
--cd file_name: to move into the file of the app created
+- cd file_name: to move into the file of the app created
+- npm I : install all dependencies on system
+- ctrl + c = terminate react shell
+- npm start: to start deployment server
+- ctrl+tab: switch among chrome tabs
+- alt+tab: switch among windows
+  
 
 
