@@ -1,0 +1,4 @@
+.pagination {display: flow-root;text-align: center;padding: 20px;}
+.pagination > .pagination-arrow-disabled {color:#AAA; border: 1px solid #AAA;cursor: not-allowed;display: inline-block;height: 50px;width: 50px;text-align: center;font-size: 18px;border-radius: 5rem;margin: 0 15px;padding-top: 15px;}
+.pagination > .pagination-arrow {border: 1px solid;cursor: pointer;display: inline-block;height: 50px;width: 50px;text-align: center;font-size: 18px;border-radius: 5rem;margin: 0 15px;padding-top: 15px;}
+.pagination > span:nth-child(2) {user-select: none;}
